@@ -91,7 +91,7 @@ chatwithroom/
 ```
 # ✨ Credit
 
-- Built by Rakshit Singh
+- Built by Rushil Chittora and Team
 - Lucide Icons by Lucide
 
 
