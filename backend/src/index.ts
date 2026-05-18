@@ -8,7 +8,6 @@ interface users {
 }
 
 const allusers: users[] = [];
-
 wss.on("connection", (ws) => {
   console.log("connected to server");
 
